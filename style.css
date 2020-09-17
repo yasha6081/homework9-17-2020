@@ -1,11 +1,7 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
 
 body {
     background-color: #d9dcd6;
+    font-size: 16px
 }
 
 .header {
@@ -34,14 +30,8 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
 
-p {
-    font-size: 16px;
-}
+
 
 .hero {
     height: 800px;
